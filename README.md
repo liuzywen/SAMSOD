@@ -1,6 +1,7 @@
 # SAMSOD
 SAMSOD: Rethinking SAM Optimization for RGB-T Salient Object Detection
-has been accepted by TMM.
+has been published by TMM. 
+![DOI](https://doi.org/10.1109/TMM.2026.3654410)
 # 论文
 ![Paper](Paper.pdf)
 # 代码
