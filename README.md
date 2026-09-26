@@ -21,10 +21,17 @@ DOI: https://doi.org/10.1109/TMM.2026.3654410
 
 # Cite
 @article{liu2026samsod,
+
   title={SAMSOD: Rethinking SAM optimization for RGB-T salient object detection},
+  
   author={Liu, Zhengyi and Wang, Xinrui and Fang, Xianyong and Tu, Zhengzheng and Wang, Linbo},
+  
   journal={IEEE Transactions on Multimedia},
+  
   pages={3869--3879},
+  
   year={2026},
+  
   publisher={IEEE}
+  
 }
